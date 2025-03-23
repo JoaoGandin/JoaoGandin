@@ -1,6 +1,6 @@
 ## Olá! Me chamo João Victor 👋
 
-- 🌱 Estudando Análise e Desenvolvimento de sistemas.
+- 🌱 Cursando Análise e Desenvolvimento de sistemas.
 
 <h3>Aprendendo</h3>
   <div>
